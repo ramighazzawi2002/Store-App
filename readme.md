@@ -21,7 +21,7 @@ The server is built with Express.js and provides APIs for the client.
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/ramighazzawi2002/Store-App.git
    ```
 
 2. Navigate to the client directory and install dependencies:
